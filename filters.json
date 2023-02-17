@@ -1,0 +1,912 @@
+{
+  "filters": [
+    {
+      "id": 1,
+      "name": "Vehicle type",
+      "type": "list",
+      "category": "Voiture, vélo & bateau",
+      "values": [
+        {
+          "value": "car"
+        },
+        {
+          "value": "bike"
+        },
+        {
+          "value": "boat"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Price range",
+      "type": "price",
+      "category": "Voiture, vélo & bateau",
+      "values": [
+        {
+          "value": "0-1000"
+        },
+        {
+          "value": "1000-5000"
+        },
+        {
+          "value": "5000-10000"
+        },
+        {
+          "value": "10000+"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Manufacturer",
+      "type": "dropdown",
+      "category": "Voiture, vélo & bateau",
+      "values": [
+        {
+          "value": "Honda"
+        },
+        {
+          "value": "Toyota"
+        },
+        {
+          "value": "BMW"
+        },
+        {
+          "value": "Mercedes"
+        },
+        {
+          "value": "Ford"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Property type",
+      "type": "list",
+      "category": "Biens",
+      "values": [
+        {
+          "value": "commercial"
+        },
+        {
+          "value": "residential"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Price range",
+      "type": "price",
+      "category": "Biens",
+      "values": [
+        {
+          "value": "0-1000"
+        },
+        {
+          "value": "1000-5000"
+        },
+        {
+          "value": "5000-10000"
+        },
+        {
+          "value": "10000+"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Location",
+      "type": "dropdown",
+      "category": "Biens",
+      "values": [
+        {
+          "value": "New York"
+        },
+        {
+          "value": "Los Angeles"
+        },
+        {
+          "value": "Chicago"
+        },
+        {
+          "value": "Houston"
+        },
+        {
+          "value": "Phoenix"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Product type",
+      "category": "Famille, enfant & bébé",
+      "type": "list",
+      "values": [
+        {
+          "value": "clothes"
+        },
+        {
+          "value": "shoes"
+        },
+        {
+          "value": "toys"
+        },
+        {
+          "value": "furniture"
+        },
+        {
+          "value": "care products"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Age range",
+      "category": "Famille, enfant & bébé",
+      "type": "list",
+      "values": [
+        {
+          "value": "0-3 months"
+        },
+        {
+          "value": "3-6 months"
+        },
+        {
+          "value": "6-12 months"
+        },
+        {
+          "value": "1-2 years"
+        },
+        {
+          "value": "2-4 years"
+        },
+        {
+          "value": "4+ years"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Brand",
+      "category": "Famille, enfant & bébé",
+      "type": "dropdown",
+      "values": [
+        {
+          "value": "Carter's"
+        },
+        {
+          "value": "Gerber"
+        },
+        {
+          "value": "Fisher Price"
+        },
+        {
+          "value": "Graco"
+        },
+        {
+          "value": "Disney"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Category",
+      "category": "Loisirs, hobbies & quartier",
+      "type": "list",
+      "values": [
+        {
+          "value": "art"
+        },
+        {
+          "value": "collectibles"
+        },
+        {
+          "value": "esoteric & spiritual"
+        },
+        {
+          "value": "food & drink"
+        },
+        {
+          "value": "leisure activities"
+        },
+        {
+          "value": "crafts"
+        },
+        {
+          "value": "artists & musicians"
+        },
+        {
+          "value": "modelling"
+        },
+        {
+          "value": "travel & event services"
+        },
+        {
+          "value": "sports & camping"
+        },
+        {
+          "value": "garbage"
+        },
+        {
+          "value": "lost & found"
+        },
+        {
+          "value": "other leisure, hobbies & neighborhood"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Price range",
+      "category": "Loisirs, hobbies & quartier",
+      "type": "price",
+      "values": [
+        {
+          "value": "0-50"
+        },
+        {
+          "value": "50-100"
+        },
+        {
+          "value": "100-200"
+        },
+        {
+          "value": "200+"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Location",
+      "category": "Loisirs, hobbies & quartier",
+      "type": "dropdown",
+      "values": [
+        {
+          "value": "New York"
+        },
+        {
+          "value": "Los Angeles"
+        },
+        {
+          "value": "Chicago"
+        },
+        {
+          "value": "Houston"
+        },
+        {
+          "value": "Phoenix"
+        }
+      ]
+    },
+    {
+      "name": "Condition",
+      "category": "Loisirs, hobbies & quartier",
+      "type": "list",
+      "values": [
+        {
+          "value": "new"
+        },
+        {
+          "value": "used"
+        },
+        {
+          "value": "vintage"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Date Listed",
+      "category": "Loisirs, hobbies & quartier",
+      "type": "date-picker",
+      "values": []
+    },
+    {
+      "id": 20,
+      "category": "Maison & Jardin",
+      "name": "Product type",
+      "type": "list",
+      "values": [
+        {
+          "value": "kitchen & dining room"
+        },
+        {
+          "value": "living room"
+        },
+        {
+          "value": "bathroom"
+        },
+        {
+          "value": "office"
+        },
+        {
+          "value": "decoration"
+        },
+        {
+          "value": "home & garden services"
+        },
+        {
+          "value": "garden accessories & plants"
+        },
+        {
+          "value": "interior decoration"
+        },
+        {
+          "value": "DIY"
+        },
+        {
+          "value": "lamps & light"
+        },
+        {
+          "value": "bedroom"
+        },
+        {
+          "value": "other home & garden"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Price range",
+      "category": "Maison & Jardin",
+      "type": "price",
+      "values": [
+        {
+          "value": "0-50"
+        },
+        {
+          "value": "50-100"
+        },
+        {
+          "value": "100-200"
+        },
+        {
+          "value": "200+"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Brand",
+      "type": "dropdown",
+      "category": "Maison & Jardin",
+      "values": [
+        {
+          "value": "IKEA"
+        },
+        {
+          "value": "Pottery Barn"
+        },
+        {
+          "value": "Crate & Barrel"
+        },
+        {
+          "value": "West Elm"
+        },
+        {
+          "value": "Target"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Color",
+      "category": "Maison & Jardin",
+      "type": "multi-pick",
+      "values": [
+        {
+          "value": "white"
+        },
+        {
+          "value": "black"
+        },
+        {
+          "value": "gray"
+        },
+        {
+          "value": "brown"
+        },
+        {
+          "value": "beige"
+        },
+        {
+          "value": "blue"
+        },
+        {
+          "value": "green"
+        },
+        {
+          "value": "yellow"
+        },
+        {
+          "value": "orange"
+        },
+        {
+          "value": "red"
+        },
+        {
+          "value": "purple"
+        },
+        {
+          "value": "pink"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Category",
+      "category": "Travaux",
+      "type": "list",
+      "values": [
+        {
+          "value": "gastronomy & tourism"
+        },
+        {
+          "value": "construction, craft & production"
+        },
+        {
+          "value": "mini-jobs & part-time jobs"
+        },
+        {
+          "value": "education"
+        },
+        {
+          "value": "office & administration"
+        },
+        {
+          "value": "customer service & call center"
+        },
+        {
+          "value": "internships"
+        },
+        {
+          "value": "social sector & care"
+        },
+        {
+          "value": "transport, logistics & traffic"
+        },
+        {
+          "value": "sales, procurement & marketing"
+        },
+        {
+          "value": "other jobs"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Job type",
+      "category": "Travaux",
+      "type": "list",
+      "values": [
+        {
+          "value": "full-time"
+        },
+        {
+          "value": "part-time"
+        },
+        {
+          "value": "freelance"
+        },
+        {
+          "value": "contract"
+        },
+        {
+          "value": "internship"
+        },
+        {
+          "value": "volunteer"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Salary range",
+      "category": "Travaux",
+      "type": "price",
+      "values": [
+        {
+          "value": "0-1000"
+        },
+        {
+          "value": "1000-3000"
+        },
+        {
+          "value": "3000-5000"
+        },
+        {
+          "value": "5000-8000"
+        },
+        {
+          "value": "8000+"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Location",
+      "category": "Travaux",
+      "type": "dropdown",
+      "values": [
+        {
+          "value": "New York"
+        },
+        {
+          "value": "Los Angeles"
+        },
+        {
+          "value": "Chicago"
+        },
+        {
+          "value": "Houston"
+        },
+        {
+          "value": "Phoenix"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Education level",
+      "category": "Travaux",
+      "type": "list",
+      "values": [
+        {
+          "value": "high school"
+        },
+        {
+          "value": "vocational"
+        },
+        {
+          "value": "bachelor's"
+        },
+        {
+          "value": "master's"
+        },
+        {
+          "value": "phd"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Product type",
+      "category": "Mode & Beauty",
+      "type": "list",
+      "values": [
+        {
+          "value": "women's clothing"
+        },
+        {
+          "value": "men's clothing"
+        },
+        {
+          "value": "accessories & jewelry"
+        },
+        {
+          "value": "beauty"
+        },
+        {
+          "value": "women's shoes"
+        },
+        {
+          "value": "men's shoes"
+        },
+        {
+          "value": "other fashion & beauty"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Price range",
+      "category": "Mode & Beauty",
+      "type": "price",
+      "values": [
+        {
+          "value": "0-50"
+        },
+        {
+          "value": "50-100"
+        },
+        {
+          "value": "100-200"
+        },
+        {
+          "value": "200+"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Brand",
+      "category": "Mode & Beauty",
+      "type": "dropdown",
+      "values": [
+        {
+          "value": "Zara"
+        },
+        {
+          "value": "H&M"
+        },
+        {
+          "value": "Forever 21"
+        },
+        {
+          "value": "Topshop"
+        },
+        {
+          "value": "ASOS"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Size",
+      "category": "Mode & Beauty",
+      "type": "list",
+      "values": [
+        {
+          "value": "XS"
+        },
+        {
+          "value": "S"
+        },
+        {
+          "value": "M"
+        },
+        {
+          "value": "L"
+        },
+        {
+          "value": "XL"
+        },
+        {
+          "value": "XXL"
+        },
+        {
+          "value": "Plus size"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Product type",
+      "category": "Électronique",
+      "type": "list",
+      "values": [
+        {
+          "value": "mobile phones"
+        },
+        {
+          "value": "household appliances"
+        },
+        {
+          "value": "audio & hifi"
+        },
+        {
+          "value": "electronics"
+        },
+        {
+          "value": "photography"
+        },
+        {
+          "value": "gaming consoles"
+        },
+        {
+          "value": "laptops"
+        },
+        {
+          "value": "PC accessories & software"
+        },
+        {
+          "value": "tablets & e-readers"
+        },
+        {
+          "value": "television & video"
+        },
+        {
+          "value": "video games"
+        },
+        {
+          "value": "other electronics"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Price range",
+      "category": "Électronique",
+      "type": "price",
+      "values": [
+        {
+          "value": "0-50"
+        },
+        {
+          "value": "50-100"
+        },
+        {
+          "value": "100-200"
+        },
+        {
+          "value": "200+"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Brand",
+      "category": "Électronique",
+      "type": "dropdown",
+      "values": [
+        {
+          "value": "Samsung"
+        },
+        {
+          "value": "Apple"
+        },
+        {
+          "value": "Sony"
+        },
+        {
+          "value": "LG"
+        },
+        {
+          "value": "HP"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Condition",
+      "category": "Électronique",
+      "type": "list",
+      "values": [
+        {
+          "value": "new"
+        },
+        {
+          "value": "used"
+        },
+        {
+          "value": "refurbished"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Release date",
+      "category": "Électronique",
+      "type": "date-picker",
+      "values": []
+    },
+    {
+      "id": 38,
+      "name": "Category",
+      "category": "Cours & Cours",
+      "type": "list",
+      "values": [
+        {
+          "value": "tutoring"
+        },
+        {
+          "value": "beauty"
+        },
+        {
+          "value": "computer courses"
+        },
+        {
+          "value": "esoteric & spiritual"
+        },
+        {
+          "value": "cooking"
+        },
+        {
+          "value": "art design"
+        },
+        {
+          "value": "music & singing"
+        },
+        {
+          "value": "sport courses"
+        },
+        {
+          "value": "language courses"
+        },
+        {
+          "value": "dance courses"
+        },
+        {
+          "value": "continuing education"
+        },
+        {
+          "value": "other lessons & courses"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Price range",
+      "category": "Cours & Cours",
+      "type": "price",
+      "values": [
+        {
+          "value": "0-50"
+        },
+        {
+          "value": "50-100"
+        },
+        {
+          "value": "100-200"
+        },
+        {
+          "value": "200+"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Location",
+      "category": "Cours & Cours",
+      "type": "dropdown",
+      "values": [
+        {
+          "value": "New York"
+        },
+        {
+          "value": "Los Angeles"
+        },
+        {
+          "value": "Chicago"
+        },
+        {
+          "value": "Houston"
+        },
+        {
+          "value": "Phoenix"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Experience level",
+      "category": "Cours & Cours",
+      "type": "list",
+      "values": [
+        {
+          "value": "beginner"
+        },
+        {
+          "value": "intermediate"
+        },
+        {
+          "value": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Category",
+      "category": "Donner et échanger",
+      "type": "list",
+      "values": [
+        {
+          "value": "give away"
+        },
+        {
+          "value": "swap"
+        },
+        {
+          "value": "donate"
+        },
+        {
+          "value": "lend"
+        }
+      ]
+    }
+  ]
+}
+
+
+

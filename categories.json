@@ -1,0 +1,1773 @@
+{
+  "categories": [
+    {
+      "parent": "",
+      "category": "Mode",
+      "type": "list"
+    },
+    {
+      "parent": "Mode",
+      "category": "Mode Homme",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "vêtements de Sport",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Vestes et manteaux",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Sweat a capuche & Sweat-shirt",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Pull, Gillets & Polo",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Sous-vêtements",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "jeans",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "chemises",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Pantalons",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "montres Gomme",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Accessoires",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Sneakers & Canvas",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Chaussures de Ville",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Chaussures de Sport",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Homme",
+      "category": "Bottes",
+      "type": "list"
+    },
+      {
+      "parent": "Mode",
+      "category": "Mode Femme",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Lingerie et vêtements de nuit",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Vêtements de Sport",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Robes",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Sacs Portés main",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "T-shrits, Tops et chemisiers",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Accessoires Femme",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Montres-Bracelets",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Chaussures a talons",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Chaussures plates",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Bottines",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Chaussures de Sport",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Basket mode",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Mocassins",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Chaussettes, Bas et Collants",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Chaussures compensees",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Chapeaux et casquettes",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Lunettes de soleil et accessoires",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Montres chic",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Bracelets en cuir",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Sacs a bandouliere",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Jeans",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Pochettes",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Hoodies & Sweat-shirts",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": " Manteaux & Blouosons",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Vêtements de Grossesse",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Vêtements traditionnels et culturels",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Sacs Portés epaule",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Jupes",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Port-clés & Chaines",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Bijoux tendance",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Portfeuilles & Porte-cartes",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Sandales & Nu-pieds",
+      "type": "list"
+    },
+    {
+      "parent": "Mode Femme",
+      "category": "Maillots de bain & Paréos",
+      "type": "list"
+    },
+    {
+      "parent": "Mode",
+      "category": "Filles",
+      "type": "list"
+    },
+    {
+      "parent": "Filles",
+      "category": "Accessoires",
+      "type": "list"
+    },
+    {
+      "parent": "Filles",
+      "category": "Vêtements",
+      "type": "list"
+    },
+    {
+      "parent": "Mode",
+      "category": "Garçon",
+      "type": "list"
+    },
+    {
+      "parent": "Garçon",
+      "category": "Accessoires",
+      "type": "list"
+    },
+     {
+      "parent": "Garçon",
+      "category": "Chaussures",
+      "type": "list"
+    },
+     {
+      "parent": "Garçon",
+      "category": "Vêtements",
+      "type": "list"
+    },
+    {
+      "parent": "Mode",
+      "category": "Bébé Garçon",
+      "type": "list"
+    },
+    {
+      "parent": "Bébé Garçon",
+      "category": "Accessoires",
+      "type": "list"
+    },
+     {
+      "parent": "Bébé Garçon",
+      "category": "Chaussures",
+      "type": "list"
+    },
+     {
+      "parent": "Bébé Garçon",
+      "category": "Vêtements",
+      "type": "list"
+    },
+    {
+      "parent": "Mode",
+      "category": "Bébé Filles",
+      "type": "list"
+    },
+    {
+      "parent": "Bébé Filles",
+      "category": "Accessoires",
+      "type": "list"
+    },
+     {
+      "parent": "Bébé Filles",
+      "category": "Chaussures",
+      "type": "list"
+    },
+     {
+      "parent": "Bébé Filles",
+      "category": "Vêtements",
+      "type": "list"
+    },
+     {
+      "parent": "Mode",
+      "category": "Bagagerie et Voyage",
+      "type": "list"
+    },
+    {
+      "parent": "Bagagerie et Voyage",
+      "category": "Sacs de sport",
+      "type": "list"
+    },
+     {
+      "parent": "Bagagerie et Voyage",
+      "category": "sacs à dos",
+      "type": "list"
+    },
+    {
+      "parent": "Bagagerie et Voyage",
+      "category": "Sac de rangements",
+      "type": "list"
+    },
+    {
+      "parent": "Bagagerie et Voyage",
+      "category": "Sacs à main",
+      "type": "list"
+    },
+    {
+      "parent": "Bagagerie et Voyage",
+      "category": "Valises & Cabas",
+      "type": "list"
+    },  
+    
+ {
+      "parent": "",
+      "category": "Électroménager, TV & Audio",
+      "type": "list"
+    },
+{
+      "parent": "Électroménager, TV & Audio",
+      "category": "ELECTROMENAGER",
+      "type": "list"
+    },
+    {
+      "parent": "ELECTROMENAGER",
+      "category": "Cafetieres electriques",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "Fer a reppaser et centrale vapeur",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "Grills, Friteuses et Plaque de cuissons",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "Bouilloires electrique",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "presse Sandwich & Gaufriers",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "Micro-ondes et fours electrique",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "Blenders et Robots de cuisine",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "Cuiseurs Vapeur",
+      "type": "list"
+    },{
+      "parent": "ELECTROMENAGER",
+      "category": "Yaoutieres et sorbetieres",
+      "type": "list"
+    },{
+      "parent": "Électroménager, TV & Audio",
+      "category": "TELEVIONS",
+      "type": "list"
+    },{
+      "parent": "TELEVISIONS",
+      "category": "TV 32\"",
+      "type": "list"
+    },{
+      "parent": "TELEVISIONS",
+      "category": "TV jusqu'a 43\"",
+      "type": "list"
+    },{
+      "parent": "TELEVISIONS",
+      "category": "tv 50\" et plus",
+      "type": "list"
+    },{
+      "parent": "Électroménager, TV & Audio",
+      "category": "GROS ELECTROMENAGER",
+      "type": "list"
+    },{
+      "parent": "GROS ELECTROMENAGER",
+      "category": "Aspirateurs",
+      "type": "list"
+    },{
+      "parent": "GROS ELECTROMENAGER",
+      "category": "Machines a laver",
+      "type": "list"
+    },
+{
+      "parent": "GROS ELECTROMENAGER",
+      "category": "Refrigerateurs",
+      "type": "list"
+    },
+{
+      "parent": "GROS ELECTROMENAGER",
+      "category": "Radiateurs et Bains d'huile",
+      "type": "list"
+    },
+{
+      "parent": "GROS ELECTROMENAGER",
+      "category": "Cuisinieres",
+      "type": "list"
+    },
+{
+      "parent": "GROS ELECTROMENAGER",
+      "category": "Laves vaisselle",
+      "type": "list"
+    },{
+      "parent": "Électroménager, TV & Audio",
+      "category": "HIGH TECH",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "TV box",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "Accessoires High Tech",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "Accessoires Photo",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "Support TV",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "Recepteur TNT  ",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "Audio & Hifi",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "Securite et Surveillance",
+      "type": "list"
+    },{
+      "parent": "HIGH TECH",
+      "category": "Electrique de Bureau",
+      "type": "list"
+    },{
+      "parent": "Électroménager, TV & Audio",
+      "category": "TOPS MARQUES",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Moulinex",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Techwood",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "LG",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Robuste",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Rowenta",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Sonashi",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Brandt",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "IRIS",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Sansung",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Geant",
+      "type": "list"
+    },{
+      "parent": "TOPS MARQUES",
+      "category": "Stream",
+      "type": "list"
+    },
+
+    {
+      "parent": "",
+      "category": "Santé & Beauté",
+      "type": "list"
+    },{
+      "parent": "Santé & Beauté",
+      "category": "PARFUMS",
+      "type": "list"
+    },{
+      "parent": "PARFUMS",
+      "category": "Parfums Femme",
+      "type": "list"
+    },{
+      "parent": "PARFUMS",
+      "category": "Parfums Homme",
+      "type": "list"
+    },{
+      "parent": "PARFUMS",
+      "category": "Deodorants",
+      "type": "list"
+    },
+
+    {
+      "parent": "Santé & Beauté",
+      "category": "Beauté & Soins Personnels",
+      "type": "list"
+    },{
+      "parent": "Beauté & Soins Personnels",
+      "category": "Epilations Femme",
+      "type": "list"
+    },{
+      "parent": "Beauté & Soins Personnels",
+      "category": "Rasage Homme",
+      "type": "list"
+    },{
+      "parent": "Beauté & Soins Personnels",
+      "category": "Soins de visage",
+      "type": "list"
+    },{
+      "parent": "Beauté & Soins Personnels",
+      "category": "Soins de la peau",
+      "type": "list"
+    },{
+      "parent": "Beauté & Soins Personnels",
+      "category": "Sois de cheveaux",
+      "type": "list"
+    },{
+      "parent": "Beauté & Soins Personnels",
+      "category": "Soins Bucco-dentaires",
+      "type": "list"
+    },
+
+{
+      "parent": "Santé & Beauté",
+      "category": "Coins Santé",
+      "type": "list"
+    },{
+      "parent": "Coins Santé",
+      "category": "Equipements Médical",
+      "type": "list"
+    },{
+      "parent": "Coins Santé",
+      "category": "Hygiène féminine",
+      "type": "list"
+    },{
+      "parent": "Coins Santé",
+      "category": "Massage & Relaxation",
+      "type": "list"
+    },{
+      "parent": "Coins Santé",
+      "category": "Soins de pieds",
+      "type": "list"
+    },{
+      "parent": "Coins Santé",
+      "category": "Traitements",
+      "type": "list"
+    },
+
+{
+      "parent": "Santé & Beauté",
+      "category": "MAQUILLAGE",
+      "type": "list"
+    },{
+      "parent": "MAQUILLAGE",
+      "category": "Démaquillant ",
+      "type": "list"
+    },{
+      "parent": "MAQUILLAGE",
+      "category": "Maquillage Visage",
+      "type": "list"
+    },{
+      "parent": "MAQUILLAGE",
+      "category": "Maquillage Yeux",
+      "type": "list"
+    },{
+      "parent": "MAQUILLAGE",
+      "category": "Maquillage des lèvres",
+      "type": "list"
+    },{
+      "parent": "MAQUILLAGE",
+      "category": "Vernis à ongles",
+      "type": "list"
+    },
+{
+      "parent": "Santé & Beauté",
+      "category": "TOP MARQUES",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Braun",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Kemie",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Hugo Boss",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Mac Styler",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Azzaro",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Emmanuelle Jeanne",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Nivea",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Piove",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Cosmekarn",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Lanvin",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Babyliss",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Calvin Klein",
+      "type": "list"
+    },
+ {
+      "parent": "",
+      "category": "Maison & Cuisine",
+      "type": "list"
+    },
+{
+      "parent": "Maison & Cuisine",
+      "category": "CUISINE",
+      "type": "list"
+    },{
+      "parent": "CUISINE",
+      "category": "Coccotes, Casseroles & Poeles",
+      "type": "list"
+    },{
+      "parent": "CUISINE",
+      "category": "Ustensiles & Accessoires",
+      "type": "list"
+    },{
+      "parent": "CUISINE",
+      "category": "Couverts et vaisselle et accessoires",
+      "type": "list"
+    },{
+      "parent": "CUISINE",
+      "category": "Conservation & Rangements",
+      "type": "list"
+    },{
+      "parent": "CUISINE",
+      "category": "Coutellerie",
+      "type": "list"
+    },{
+      "parent": "CUISINE",
+      "category": "Cafetières et Théières",
+      "type": "list"
+    },{
+      "parent": "CUISINE",
+      "category": "Plats et cuisson au four",
+      "type": "list"
+    },
+
+    {
+      "parent": "Maison & Cuisine",
+      "category": "BRICOLAGE",
+      "type": "list"
+    },{
+      "parent": "BRICOLAGE",
+      "category": "Outils électriques et Manuels",
+      "type": "list"
+    },{
+      "parent": "BRICOLAGE",
+      "category": "Quincaillerie",
+      "type": "list"
+    },{
+      "parent": "BRICOLAGE",
+      "category": "électricité ",
+      "type": "list"
+    },{
+      "parent": "BRICOLAGE",
+      "category": "Sécurité & Protection",
+      "type": "list"
+    },{
+      "parent": "BRICOLAGE",
+      "category": "Accessoires Cuisine & salles de Bain",
+      "type": "list"
+    },
+
+    {
+      "parent": "Maison & Cuisine",
+      "category": "MAISON",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Literie",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Décoration",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Rangement et Organisation",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Salle de bain",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Artisanat",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Eclairage et Luminaires",
+      "type": "list"
+    },{
+      "parent": "MAISO",
+      "category": "Entretien Maison",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Art mural",
+      "type": "list"
+    },{
+      "parent": "MAISON",
+      "category": "Meubles",
+      "type": "list"
+    },
+
+    {
+      "parent": "Maison & Cuisine",
+      "category": "JARDIN ET PLEIN AIR",
+      "type": "list"
+    },{
+      "parent": "JARDIN ET PLEIN AIR",
+      "category": "Grillade et BArbecue",
+      "type": "list"
+    },{
+      "parent": "JARDIN ET PLEIN AIR",
+      "category": "Entretien jardain",
+      "type": "list"
+    },{
+      "parent": "JARDIN ET PLEIN AIR",
+      "category": "Ferme et élevage",
+      "type": "list"
+    },{
+      "parent": "JARDIN ET PLEIN AIR",
+      "category": "Meubles de pation",
+      "type": "list"
+    },{
+      "parent": "JARDIN ET PLEIN AIR",
+      "category": "Décor extéieur",
+      "type": "list"
+    },
+
+    {
+      "parent": "Maison & Cuisine",
+      "category": "TOP MARQUES",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "SEB",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Forex",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Hascevher",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Tefal",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "CASA-DJIJOU",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Vileda",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Cotex",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Wafa",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Clatronic",
+      "type": "list"
+    },{
+      "parent": "TOP MARQUES",
+      "category": "Sonashi",
+      "type": "list"
+    },
+{
+    "parent": "",
+    "category": "TÉLÉPHONE ET TABLETTES",
+    "type": "list"
+  },
+  {
+    "parent": "TÉLÉPHONE ET TABLETTES",
+    "category": "Smartphones",
+    "type": "list"
+  },
+  {
+    "parent": "TÉLÉPHONE ET TABLETTES",
+    "category": "Tablettes",
+    "type": "list"
+  },
+  {
+    "parent": "TÉLÉPHONE ET TABLETTES",
+    "category": "Téléphones Basics",
+    "type": "list"
+  },
+  {
+    "parent": "TÉLÉPHONE ET TABLETTES",
+    "category": "Téléphones Fixes",
+    "type": "list"
+  },
+  {
+    "parent": "",
+    "category": "ACCESSOIRES TÉLÉPHONIE",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Smartwatchs",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Ecouteurs Bluetooth",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Power Banks",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Chargeurs",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Supports Téléphones & Tablettes",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Accessoires Bluetooth",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Accessoires pour Selfie",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Casques Bluetooth",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Cartes mémoires",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Écouteurs",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES TÉLÉPHONIE",
+    "category": "Étuis & Pochettes",
+    "type": "list"
+  },
+{
+    "parent": "",
+    "category": "TOP MARQUES",
+    "type": "list"
+  },
+{
+"parent": "TOPS MARQUES",
+"category": "Hoco",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Lenovo",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Redmi",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Samsung",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Xiaomi",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "oppo",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Apple",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Realme",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Nokia",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Huawei",
+"type": "list"
+},{
+    "parent": "",
+    "category": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "type": "list"
+  },
+  {
+    "parent": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "category": "Ordinateurs et Tablettes",
+    "type": "list"
+  },
+  {
+    "parent": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "category": "Imprimantes & Scanners",
+    "type": "list"
+  },
+  {
+    "parent": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "category": "Stockage de données",
+    "type": "list"
+  },
+  {
+    "parent": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "category": "Solutions réseaux",
+    "type": "list"
+  },
+  {
+    "parent": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "category": "Les Composants d'Ordinateur",
+    "type": "list"
+  },
+  {
+    "parent": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "category": "Accessoires pour Ordinateurs Portables",
+    "type": "list"
+  },
+  {
+    "parent": "ORDINATEURS ET PÉRIPHÉRIQUES",
+    "category": "Moniteurs",
+    "type": "list"
+  },
+  {
+    "parent": "",
+    "category": "ACCESSOIRES INFORMATIQUES",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Accessoires audio & vidéo",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Claviers et souris",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Câbles et interconnexions",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Nettoyage et réparation",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Adaptateurs",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Accessoires d'imprimantes",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Encre d'imprimante et Toner",
+    "type": "list"
+  },
+  {
+    "parent": "ACCESSOIRES INFORMATIQUES",
+    "category": "Gadgets USB",
+    "type": "list"
+  },{
+"parent": "",
+"category": "TOPS MARQUES",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Lenovo",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Canon",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "HP",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "ASUS",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Apple",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Acer",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Spirit Of Gamer",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "SanDisk",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Adata",
+"type": "list"
+},{
+"parent": "",
+"category": "ALIMENTATION BÉBÉS",
+"type": "list"
+},
+{
+"parent": "ALIMENTATION BÉBÉS",
+"category": "Nourriture pour bébés",
+"type": "list"
+},
+{
+"parent": "ALIMENTATION BÉBÉS",
+"category": "Biberons",
+"type": "list"
+},
+{
+"parent": "ALIMENTATION BÉBÉS",
+"category": "Allaitement Maternel & Tire-Lait",
+"type": "list"
+},
+{
+"parent": "ALIMENTATION BÉBÉS",
+"category": "Sucettes et accessoires",
+"type": "list"
+},
+{
+"parent": "ALIMENTATION BÉBÉS",
+"category": "Bavoirs et Chiffons",
+"type": "list"
+},
+{
+"parent": "ALIMENTATION BÉBÉS",
+"category": "Vaisselle pour bébés",
+"type": "list"
+},
+{
+"parent": "",
+"category": "SANTÉ ET SOINS BÉBÉ",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Thermomètres",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Shampooing",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Aspirateur nasale",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Soin de la peau",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Anti coliques",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Manucure bébés",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Anneaux de dentition",
+"type": "list"
+},
+{
+"parent": "SANTÉ ET SOINS BÉBÉ",
+"category": "Savons et Nettoyants",
+"type": "list"
+},{
+"parent": "",
+"category": "COUCHES, LINGETTES & MATELAS À LANGER",
+"type": "list"
+},
+{
+"parent": "COUCHES, LINGETTES & MATELAS À LANGER",
+"category": "Couches",
+"type": "list"
+},
+{
+"parent": "COUCHES, LINGETTES & MATELAS À LANGER",
+"category": "Lingettes",
+"type": "list"
+},
+{
+"parent": "COUCHES, LINGETTES & MATELAS À LANGER",
+"category": "Matelas à Langer",
+"type": "list"
+},
+{
+"parent": "COUCHES, LINGETTES & MATELAS À LANGER",
+"category": "Sacs à Langer",
+"type": "list"
+},
+{
+"parent": "",
+"category": "ACCESSOIRES POUR BÉBÉS",
+"type": "list"
+},
+{
+"parent": "ACCESSOIRES POUR BÉBÉS",
+"category": "Poussettes",
+"type": "list"
+},
+{
+"parent": "ACCESSOIRES POUR BÉBÉS",
+"category": "Équipements Bébé",
+"type": "list"
+},
+{
+"parent": "ACCESSOIRES POUR BÉBÉS",
+"category": "Siège auto",
+"type": "list"
+},
+{
+"parent": "ACCESSOIRES POUR BÉBÉS",
+"category": "Sécurité de bébé",
+"type": "list"
+},
+{
+"parent": "ACCESSOIRES POUR BÉBÉS",
+"category": "Jouets Bébé & Tout-Petits",
+"type": "list"
+},
+{
+"parent": "",
+"category": "TOPS MARQUES",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Chicco",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Okaïdi - Obaïbi",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Mustela",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Blédina",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Johnson's Baby",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Nivea Baby",
+"type": "list"
+},{
+"parent": "TOPS MARQUES",
+"category": "Uriage",
+"type": "list"
+},{
+"parent": "TOPS MARQUES",
+"category": "Verbaudet",
+"type": "list"
+},{
+"parent": "TOPS MARQUES",
+"category": "Tigex",
+"type": "list"
+},
+{
+"parent": "",
+"category": "JOUETS ET JEUX",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Figurines",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Loisirs Créatifs",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Jouets de Construction",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Poupées et Accessoires",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Déguisements et Jeux de Simulation",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Jeux pour Enfants",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Electroniques pour Enfants",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Apprentissage et Éducation",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Puzzles & Passe-Temps",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Sports et Jeux en Plein Air",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Animaux et Jouets en Peluche",
+"type": "list"
+},
+{
+"parent": "JOUETS ET JEUX",
+"category": "Véhicules, Trains et Jouets Téléguidés",
+"type": "list"
+},{
+"parent": "",
+"category": "JEUX VIDÉOS ET GAMING",
+"type": "list"
+},
+{
+"parent": "JEUX VIDÉOS ET GAMING",
+"category": "Jeux, Consoles et Accessoires pour Playstation",
+"type": "list"
+},
+{
+"parent": "JEUX VIDÉOS ET GAMING",
+"category": "Gaming Sur PC",
+"type": "list"
+},
+{
+"parent": "JEUX VIDÉOS ET GAMING",
+"category": "Autres Systèmes de Jeu",
+"type": "list"
+},
+{
+"parent": "JEUX VIDÉOS ET GAMING",
+"category": "Jeux Rétro et Microconsoles",
+"type": "list"
+},
+{
+"parent": "JEUX VIDÉOS ET GAMING",
+"category": "Jeux, Consoles et Accessoires pour Xbox",
+"type": "list"
+},
+{
+"parent": "",
+"category": "TOPS MARQUES",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Bestway",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "VTECH",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Chicco",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Intex",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Spirit of Gamer",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Barbie",
+"type": "list"
+},{
+"parent": "",
+"category": "SPORT & FITNESS",
+"type": "list"
+},
+{
+"parent": "SPORT & FITNESS",
+"category": "Exercices et Remise en forme",
+"type": "list"
+},
+{
+"parent": "SPORT & FITNESS",
+"category": "Camping et Randonnée",
+"type": "list"
+},
+{
+"parent": "SPORT & FITNESS",
+"category": "Sports nautiques",
+"type": "list"
+},
+{
+"parent": "SPORT & FITNESS",
+"category": "Cyclisme",
+"type": "list"
+},
+{
+"parent": "",
+"category": "PLEIN AIR",
+"type": "list"
+},
+{
+"parent": "",
+"category": "SNEAKERS",
+"type": "list"
+},
+{
+"parent": "",
+"category": "NOS MEILLEURS MARQUES",
+"type": "list"
+},
+{
+"parent": "NOS MEILLEURS MARQUES",
+"category": "DECATHLON",
+"type": "list"
+},
+{
+"parent": "NOS MEILLEURS MARQUES",
+"category": "Adidas",
+"type": "list"
+},
+{
+"parent": "NOS MEILLEURS MARQUES",
+"category": "Nike",
+"type": "list"
+},
+{
+"parent": "NOS MEILLEURS MARQUES",
+"category": "Puma",
+"type": "list"
+},
+{
+"parent": "NOS MEILLEURS MARQUES",
+"category": "Asics",
+"type": "list"
+},{
+"parent": "",
+"category": "SUPERMARCHÉ",
+"type": "list"
+},
+{
+"parent": "SUPERMARCHÉ",
+"category": "Riz, pâtes et nouilles",
+"type": "list"
+},
+{
+"parent": "SUPERMARCHÉ",
+"category": "Céréales",
+"type": "list"
+},
+{
+"parent": "SUPERMARCHÉ",
+"category": "Conserve",
+"type": "list"
+},
+{
+"parent": "SUPERMARCHÉ",
+"category": "Confiture, miel & pâte à tartiner",
+"type": "list"
+},
+{
+"parent": "SUPERMARCHÉ",
+"category": "Beurre de cacahuète",
+"type": "list"
+},
+{
+"parent": "",
+"category": "BOISSONS",
+"type": "list"
+},
+{
+"parent": "BOISSONS",
+"category": "Jus et eau",
+"type": "list"
+},
+{
+"parent": "BOISSONS",
+"category": "Café & thé",
+"type": "list"
+},
+{
+"parent": "BOISSONS",
+"category": "Café moulu",
+"type": "list"
+},{
+"parent": "",
+"category": "INGRÉDIENTS DE CUISINE",
+"type": "list"
+},
+{
+"parent": "INGRÉDIENTS DE CUISINE",
+"category": "Huile",
+"type": "list"
+},
+{
+"parent": "INGRÉDIENTS DE CUISINE",
+"category": "Herbes, épices et assaisonnements",
+"type": "list"
+},
+{
+"parent": "INGRÉDIENTS DE CUISINE",
+"category": "Huile d'olive",
+"type": "list"
+},
+{
+"parent": "",
+"category": "GOÛTER",
+"type": "list"
+},
+{
+"parent": "GOÛTER",
+"category": "Chocolats & bonbons",
+"type": "list"
+},
+{
+"parent": "GOÛTER",
+"category": "Biscuits",
+"type": "list"
+},
+{
+"parent": "",
+"category": "LESSIVE",
+"type": "list"
+},
+{
+"parent": "LESSIVE",
+"category": "Lessive poudre",
+"type": "list"
+},
+{
+"parent": "LESSIVE",
+"category": "Lessive liquide",
+"type": "list"
+},
+{
+"parent": "LESSIVE",
+"category": "Détergent",
+"type": "list"
+},
+{
+"parent": "LESSIVE",
+"category": "Détergents tablettes",
+"type": "list"
+},{
+"parent": "",
+"category": "USTENSILES DE NETTOYAGE",
+"type": "list"
+},
+{
+"parent": "USTENSILES DE NETTOYAGE",
+"category": "Gants",
+"type": "list"
+},
+{
+"parent": "USTENSILES DE NETTOYAGE",
+"category": "Brosses",
+"type": "list"
+},
+{
+"parent": "USTENSILES DE NETTOYAGE",
+"category": "Balayage",
+"type": "list"
+},
+{
+"parent": "",
+"category": "HYGIÈNE ET TOILETTE",
+"type": "list"
+},
+{
+"parent": "",
+"category": "TOPS MARQUES",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Omo",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Ariel",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Blédina",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Venus",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Coca cola",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Illy",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Nutricia",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Mama",
+"type": "list"
+},
+{
+"parent": "TOPS MARQUES",
+"category": "Higeen",
+"type": "list"
+},{
+"parent": "",
+"category": "ELECTRONIQUES AUTOMOBILE",
+"type": "list"
+},
+{
+"parent": "ELECTRONIQUES AUTOMOBILE",
+"category": "GPS et Téléphonie",
+"type": "list"
+},
+{
+"parent": "ELECTRONIQUES AUTOMOBILE",
+"category": "Audio, Vidéo et sécurité",
+"type": "list"
+},
+{
+"parent": "",
+"category": "ACCESSOIRES INTÉRIEURS",
+"type": "list"
+},
+{
+"parent": "",
+"category": "ACCESSOIRES EXTÉRIEURS",
+"type": "list"
+},
+{
+"parent": "",
+"category": "HUILES & LIQUIDES",
+"type": "list"
+},
+{
+"parent": "",
+"category": "OUTILS & DÉPANNAGE",
+"type": "list"
+},
+{
+"parent": "",
+"category": "ENTRETIEN DE VOITURE",
+"type": "list"
+},
+{
+"parent": "ENTRETIEN DE VOITURE",
+"category": "Entretien intérieurs",
+"type": "list"
+},
+{
+"parent": "ENTRETIEN DE VOITURE",
+"category": "Entretien d'extérieurs",
+"type": "list"
+},
+{
+"parent": "ENTRETIEN DE VOITURE",
+"category": "Aspirateurs de voitures",
+"type": "list"
+},
+{
+"parent": "ENTRETIEN DE VOITURE",
+"category": "Produits nettoyage tapis",
+"type": "list"
+},
+{
+"parent": "ENTRETIEN DE VOITURE",
+"category": "Produits de protection",
+"type": "list"
+},
+
+
+
+
+
+
+    
+  ]
+}
