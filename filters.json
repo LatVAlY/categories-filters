@@ -2,24 +2,21 @@
   "filters": [
     {
       "id": 1,
-      "name": "Vehicle type",
+      "name": "Type de Véhicules",
       "type": "list",
-      "category": "Voiture, vélo & bateau",
+      "category": "Véhicules",
       "values": [
         {
-          "value": "car"
+          "value": "Prix Millions"
         },
         {
-          "value": "bike"
-        },
-        {
-          "value": "boat"
+          "value": "Année"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Price range",
+      "name": "Prix Millions",
       "type": "price",
       "category": "Voiture, vélo & bateau",
       "values": [
